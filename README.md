@@ -39,6 +39,7 @@ Este problema también se puede ver en términos de reorganizar elementos de una
 
 ![image](https://user-images.githubusercontent.com/6539267/65395091-ff2d7b80-dd4a-11e9-9553-13d192d59348.png)
 
+## Implementación
 
 ```c++
 //Dutch National Flag Algorithm 
@@ -83,3 +84,6 @@ const void Quicksort::Sorting(int a[], int low, int high)
     Quicksort::Sorting(a, j, high); 
 } 
 ```
+## Referencias
+
+Cormen, T. H. (2009). Introduction to Algorithms. Cambridge: Massachusetts Institute of Technology.
