@@ -1,5 +1,11 @@
 ﻿# Fundamentos de computación, foro 9
  
+ Para descargar utiliza el siguiente comando de git en tu consola.
+ 
+ ```git
+ git clone https://github.com/jfcarocota/compu-foro-9.git
+ ```
+ 
  ## Quicksort
  
 <p  align="justify">
